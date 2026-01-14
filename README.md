@@ -86,3 +86,7 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 ## Contributing
 
 Contributions are welcome! To get started, you can check out the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## Acknowledgement
+
+This project was provided with computing AI and storage resources by GENCI at IDRIS, thanks to the grant 2025-AD011016076 on the supercomputer Jean Zay's V100 partition.
